@@ -1,0 +1,45 @@
+body{
+    overflow-x: hidden;
+    box-sizing: border-box;
+    background: black;
+
+
+}
+#image{
+  width: 100%;
+  
+}
+
+ .nonso{
+padding-top: 70px;
+
+ }
+ .nonso h2{
+color: white;
+
+ }
+
+.textme {
+    color: aliceblue;
+    padding-top: 20%;
+}
+#footer {
+    padding : 10px;
+}
+#footer a, #footer p {
+    font-size: 20px!important;
+    font-weight: 200;
+    line-height: 1!important;
+    text-decoration: none;
+    color: #ccc;
+}
+#footer a {
+    padding: 0px 20px;
+}
+.ptags {
+    display: flex;
+    justify-content: space-around;
+}
+.link {
+    text-align: center;
+}
